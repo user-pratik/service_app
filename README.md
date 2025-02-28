@@ -75,7 +75,7 @@
 <p>Contributions are welcome! Feel free to open an issue or submit a pull request.</p>
 
 <h2>📜 License</h2>
-<p>This project is licensed under the <strong>MIT License</strong>.</p>
+<p>Pls contact Author for any discussions regarding use</strong>.</p>
 
 <hr>
 
